@@ -1,20 +1,17 @@
 const CONFIG = {
     titleWeb: "Gửi em",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
+    introTitle: 'Gửi cho Thảo Đan',
+    introDesc: `Có thể là hơi sớm sau 1 buổi đi chơi với nhau`,
+    btnIntro: '^^click^^',
+    title: 'Sau khi anh nghe em nói có thể là em sẽ học ở nước ngoài thì anh quyết định là nên nói vì anh và em chưa biết gì về nhau cho nên chúng ta có thể làm quen trước được không 🥰',
+    desc: 'Thoát web là chấp nhận làm quen với anh rồi nhé!!!',
+    btnYes: 'Đồng Ý <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'Để lại một câu nói đi nek <3',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
+    reply: 'Làm quen thì làm không làm thì làm <33333333',
+    mess: 'Anh biết mà 🥰. Anh biết em sẽ đồng ý mà 😘😘',
+    messDesc: 'Hẹn em, Vào lần đi chơi tiếp theo nha.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/profile.php?id=100062675319992' //link mess của các bạn. VD: /dinhkaito
+    messLink: 'https://www.facebook.com/profile.php?id=100062675319992'
 }
