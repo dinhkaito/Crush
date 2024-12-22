@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi em",
-    introTitle: 'Gửi cho Thảo Đan',
+    introTitle: '?????',
     introDesc: `Có thể là hơi sớm sau 1 buổi đi chơi với nhau`,
     btnIntro: '^^click^^',
     title: 'Sau khi anh nghe em nói có thể là em sẽ học ở nước ngoài thì anh quyết định là nên nói vì anh và em chưa biết gì về nhau cho nên chúng ta có thể làm quen trước được không 🥰',
